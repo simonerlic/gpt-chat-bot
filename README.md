@@ -34,7 +34,7 @@ For example: `@GPTbot forget me`
 
 ## Modification
 
-You can modify the code to use a different model or to change the character that the bot is acting as. To change the model, simply change the `model` variable in `generate_gpt_response` to the name of the model you want to use (e.g. `gpt-4`).
+You can modify the code to use a different model or to change the character that the bot is acting as. To change the model, simply change the `system_model` variable in `bot.py` to the name of the model you want to use (e.g. `gpt-4`).
 
 To change the character, modify the `system_prompt` variable in `bot.py` to the name of the character you want the bot to act as.
 
