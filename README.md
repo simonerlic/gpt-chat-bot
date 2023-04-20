@@ -1,4 +1,4 @@
-# GPT-based Discord Bot
+# OpenAI Discord Bot
 
 This repo contains a simple Discord bot that uses OpenAI's GPT-3.5-turbo model to act as a chatbot while assuming a character.
 You can modify the code to use GPT-4 if you have access to it, but I have found that the turbo model is more than sufficient for this task.
